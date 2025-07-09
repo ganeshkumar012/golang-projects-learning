@@ -1,0 +1,6 @@
+*.exe
+*.data
+*.log
+*.out
+.env
+go-server-project/
