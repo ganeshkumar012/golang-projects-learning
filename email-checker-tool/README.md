@@ -1,0 +1,1 @@
+Its a simple Email verifier tool built using standard net package in golang without using external packages 
